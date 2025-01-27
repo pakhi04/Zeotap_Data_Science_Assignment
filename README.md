@@ -54,38 +54,5 @@ between(2 and 10)
 ● Calculate clustering metrics, including the DB Index(Evaluation will be done on this). 
 ● Visualise your clusters using relevant plots. 
 
-Submission Instructions: 
-
-1. GitHub Link  
-○ Upload all the PDF and code files in a public GitHub repository.
-  
-3. File Naming Convention: 
-○ Use the following naming convention for all your files: 
-■ FirstName_LastName_EDA.pdf 
-■ FirstName_LastName_EDA.ipynb 
-■ FirstName_LastName_Lookalike.csv 
-■ FirstName_LastName_Lookalike.ipynb 
-■ FirstName_LastName_Clustering.pdf 
-■ FirstName_LastName_Clustering.ipynb
 
 
-
-Evaluation Process: 
-Your submissions will be evaluated based on the following criteria: 
-Task 
-Exploratory Data Analysis 
-Business Insights 
-Lookalike Model 
-Customer Segmentation 
-Weightage 
-25% 
-15% 
-30% 
-30% 
-Given the large number of submissions, the evaluation will be automated as much as possible. 
-Ensure your file formats and naming conventions are accurate to avoid disqualification. 
-Final Note: 
-This comprehensive assignment requires critical thinking and practical application of data 
-science concepts. Focus on creating clean, efficient code and providing meaningful insights that 
-can help the company improve its business strategy. 
-Good luck!
